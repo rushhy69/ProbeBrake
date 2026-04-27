@@ -4,6 +4,14 @@
 
 ---
 
+## 📥 Quick Download (For Beginners)
+
+If you just want to use the software without dealing with code, go to the [**Releases**](https://github.com/YOUR_USERNAME/Rushyy/releases) page and download:
+1.  **`Rushyy_ControlPanel.exe`**: The standalone Windows application.
+2.  **`loadcell_brake_leonardo.ino`**: The Arduino file to flash your hardware.
+
+---
+
 ## ✨ Key Features
 
 ### 🖥️ Desktop Control Panel (PySide6 / QML)
@@ -48,6 +56,12 @@
 6. Click **Upload**.
 
 ### 2. Setup the Desktop App
+
+#### Option A: Standalone (Easiest)
+1. Download `Rushyy_ControlPanel.exe` from the [Releases](https://github.com/YOUR_USERNAME/Rushyy/releases) page.
+2. Run it! No installation or Python required.
+
+#### Option B: From Source (For Developers)
 1. **Python 3.10+** is required.
 2. Install dependencies:
    ```bash
