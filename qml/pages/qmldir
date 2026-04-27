@@ -1,0 +1,5 @@
+module pages
+CurvesPage  1.0 CurvesPage.qml
+FeelPage    1.0 FeelPage.qml
+SystemPage  1.0 SystemPage.qml
+ConsolePage 1.0 ConsolePage.qml

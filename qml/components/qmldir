@@ -1,0 +1,11 @@
+module components
+LiveBar       1.0 LiveBar.qml
+MiniGauge     1.0 MiniGauge.qml
+CurveEditor   1.0 CurveEditor.qml
+CurveIcon     1.0 CurveIcon.qml
+PremiumSlider 1.0 PremiumSlider.qml
+PremiumDropdown 1.0 PremiumDropdown.qml
+PremiumToggle 1.0 PremiumToggle.qml
+SectionDivider 1.0 SectionDivider.qml
+CalButton     1.0 CalButton.qml
+CalibrationOverlay 1.0 CalibrationOverlay.qml
